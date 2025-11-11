@@ -2,6 +2,13 @@
 
 A full-stack web application for browsing, buying, and managing books. Built to demonstrate clean architecture, responsive design, and seamless user experiences for both customers and admins.
 
+
+<p align="center">
+  <img src="client/public/TaleHut.png" alt="Project Logo" width="200" />
+</p>
+
+
+
 ---
 
 ## 🚀 Features
@@ -18,8 +25,9 @@ A full-stack web application for browsing, buying, and managing books. Built to 
 ## 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Itsme-Debapriya/E-Commerece-Book_Store_Web_app
-cd E-Commerece-Book_Store_Web_app
+Clone the repository --> git clone https://github.com/Itsme-Debapriya/E-Commerece-Book_Store_Web_app
+
+Navigate into the folder --> cd E-Commerece-Book_Store_Web_app
 
 
 ```
