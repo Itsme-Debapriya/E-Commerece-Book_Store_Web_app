@@ -13,24 +13,42 @@ A full-stack web application for browsing, buying, and managing books. Built to 
 - 📱 **Responsive Design**: Optimized for desktop and mobile.
 
 ---
-## ⚙️ Getting Started
+# ⚙️ Getting Started
 
-## Setup Backend
+## 1. Clone the repository:
 
-cd backend <br> 
-npm install <br>
+```bash
+git clone https://github.com/Itsme-Debapriya/E-Commerece-Book_Store_Web_app
+cd E-Commerece-Book_Store_Web_app
+
+
+```
+
+
+## 2. Setup Backend
+
+```
+cd backend
+npm install
 nodemon app.js
+```
 
-## Setup Frontend
 
-In another terminal <br>
-cd frontend <br>
-npm install <br>
-npm run dev <br>
+## 3. Setup Frontend
+```
+In another terminal
+cd frontend
+npm install
+npm run dev
+```
 
-## 📬 Environment Variables
+
+## 4. 📬 Environment Variables
+
+```
 Create a .env file in the backend folder with:
 
-PORT = 1000 <br>
-MONGO_URI = mongodb connecting string <br>
+PORT = 1000
+MONGO_URI = mongodb connecting string
 FROTEND_URI = http://localhost:1000/
+```
